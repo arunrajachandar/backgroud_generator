@@ -1,0 +1,5 @@
+body {
+	text-transform: uppercase;
+	text-align: center;
+  background-image: linear-gradient(to right, red , blue);
+}
